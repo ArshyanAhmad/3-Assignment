@@ -1,0 +1,31 @@
+1. What is HTML?
+
+Ans: HTML stands for (Hyper Text Markup Language). It is the standard language used for 
+     creating web pages and other information that can be displayed in a web browser. It allows
+     developers to create structured, interactive and responsive web pages that can be accessed 
+     by users on the internet.
+
+2. What is CSS?
+
+Ans: CSS stands for (Cascading Style Sheet) language .that is used to describe the presentation
+     of a document written in a markup language, such as HTML. 
+
+3. Why did JavaScript come into the picture?
+
+Ans: HTML for structure the web Page and css for styling the web page and Java Script for
+     give the functioning in the page and make a user-friendly web Page. 
+
+4. History of JavaScript and EcmaScript. Explain in your own words.
+
+Ans: JavaScript is a programming language that was created in the mid-1990s by Brendan Eich 
+     while he was working at Netscape. Initially, it was called Mocha, then changed to LiveScript, 
+     but finally named JavaScript to ride on the popularity of Java language, which was gaining 
+     popularity at that time. JavaScript was first introduced as a client-side scripting language,
+     which means that it was primarily used to create interactive and dynamic user interfaces in 
+     web browsers.
+
+==== ECMAScript, also known as JavaScript, is the official standard for the JavaScript language, 
+     and it is maintained by the European Computer Manufacturers Association (ECMA). 
+     ECMAScript was first standardized in 1997 with the release of ECMAScript 1, and 
+     it has since undergone several revisions and updates, with the latest version being 
+     ECMAScript 2021, which was released in June 2021.
